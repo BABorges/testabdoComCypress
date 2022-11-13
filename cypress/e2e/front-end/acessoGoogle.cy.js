@@ -1,7 +1,7 @@
 describe('Testes Front-end do Google', () => {
   
   
-  it('passes', () => {
+  it('passes', function(){
     cy.visit('https://example.cypress.io')
   })
 })
